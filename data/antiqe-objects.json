@@ -1,0 +1,17 @@
+[
+
+{    
+    "_id": 1,
+    "object": "Chandelier",
+    "style": "Victorian"
+},
+{    
+    "_id": 2,
+    "object": "Vase",
+    "style": "Art Nouveau"
+},{    
+    "_id": 3,
+    "object": "Bureau",
+    "style": "Gustavian"
+}
+]
